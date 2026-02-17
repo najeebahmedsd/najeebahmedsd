@@ -11,7 +11,7 @@ North York, ON
 - **Construction Cost Analytics Dashboard** – Full-stack analytics platform using Python, PostgreSQL, Docker, and Streamlit to transform raw construction data into executive KPI insights.
 - **Hotel Management System** – Backend system built with Python and MySQL implementing relational schema design and optimized CRUD operations.
 - **Community Issue Reporting App** – SwiftUI-based geolocation reporting platform with role-based access control.
-- **Data Automation Scripts** – Python (Pandas) tools for data cleaning, preprocessing, and business reporting.
+
 
 ---
 
