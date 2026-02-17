@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hello, I’m Syed Najeeb Ahmed
 
-<!--
-**najeebahmedsd/najeebahmedsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-Year Computer Science Co-op Student at Toronto Metropolitan University  
+Dean’s List (2023–2024)  
+North York, ON  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- **Construction Cost Analytics Dashboard** – Full-stack analytics platform using Python, PostgreSQL, Docker, and Streamlit to transform raw construction data into executive KPI insights.
+- **Hotel Management System** – Backend system built with Python and MySQL implementing relational schema design and optimized CRUD operations.
+- **Community Issue Reporting App** – SwiftUI-based geolocation reporting platform with role-based access control.
+- **Data Automation Scripts** – Python (Pandas) tools for data cleaning, preprocessing, and business reporting.
+
+---
+
+## Technical Proficiencies
+
+### Languages
+Python | Java | C/C++ | SQL | JavaScript | HTML/CSS  
+
+### Frameworks & Tools
+React | Node.js | Streamlit | Docker | Git | Bash | Linux | Oracle SQL Developer  
+
+### Libraries
+NumPy | Pandas | Matplotlib  
+
+### Core Concepts
+Data Structures | Algorithms | Object-Oriented Programming  
+Database Systems | ETL Pipelines | Query Optimization | Data Modeling  
+
+---
+
+## Interests
+
+AI & Emerging Technologies  
+Data Science & Analytics  
+DevOps & Cloud Computing  
+Cybersecurity  
+Software Engineering  
+
+---
+
+## Get in Touch
+
+Email: najeebahmedsd@gmail.com  
+LinkedIn: https://www.linkedin.com/in/najeebahmedsd/
