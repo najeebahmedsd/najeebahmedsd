@@ -1,6 +1,6 @@
 # Hello, I’m Syed Najeeb Ahmed
 
-3rd-Year Computer Science Co-op Student at Toronto Metropolitan University  
+4th-Year Computer Science Co-op Student at Toronto Metropolitan University  
 Dean’s List (2023–2024)  
 North York, ON  
 
